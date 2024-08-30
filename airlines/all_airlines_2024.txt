@@ -1,0 +1,1132 @@
+MLA Q5  ---  40 Mile Air
+JYH AQ  ---  9 Air
+AAB W9  ---  Abelag Aviation
+ABX GB  ---  ABX Air
+RUN 9T  ---  ACT Airlines
+AEE A3  ---  Aegean Airlines
+EIN EI  ---  Aer Lingus
+EAI EI  ---  Aer Lingus Regional
+EUK EG  ---  Aer Lingus UK
+CPR  ---  Aercaribe
+UCR DW  ---  Aero Charter
+RTM 7T  ---  Aero Express Del Ecuador
+MNG M0  ---  Aero Mongolia
+ADN  ---  Aero-Dienst
+BRP  ---  Aerobratsk
+NIG NG  ---  Aerocontractors
+AFL SU  ---  Aeroflot Russian Airlines
+GTV KG  ---  Aerogaviota
+AEZ XZ  ---  Aeroitalia
+ARG AR  ---  Aerolíneas Argentinas
+ETR ES  ---  Aerolíneas Estelar
+NSO S0  ---  Aerolíneas Sosa
+XAU A8  ---  Aerolink Uganda
+BOX 3S  ---  Aerologic
+AMX AM  ---  Aeromexico
+SLI 5D  ---  Aeromexico Connect
+VTM  ---  Aeronaves TSM
+ALV VH  ---  Aeropostal – Alas de Venezuela
+KRE 6N  ---  AeroSucre
+ATG F5  ---  Aerotrans Cargo
+TNO 6R  ---  AeroUnion
+DAP V5  ---  Aerovías DAP
+RFD ZV  ---  Aerus
+AFW AW  ---  Africa World Airlines
+AXK XU  ---  African Express Airways
+ABS J7  ---  Afrijet Business Service
+AAW 8U  ---  Afriqiyah Airways
+ABN ZB  ---  Air Albania
+DAH AH  ---  Air Algérie
+AYY  ---  Air Alliance Express
+TAH 6K  ---  Air Anka
+GUY 3S  ---  Air Antilles
+ABY G9  ---  Air Arabia
+ADY 3L  ---  Air Arabia Abu Dhabi
+RBG E5  ---  Air Arabia Egypt
+MAC 3O  ---  Air Arabia Maroc
+ARR QN  ---  Air Armenia
+KZR KC  ---  Air Astana
+ABD CC  ---  Air Atlanta Icelandic
+REU UU  ---  Air Austral
+ABB KF  ---  Air Belgium
+BOT BP  ---  Air Botswana
+BUR B1  ---  Air Bucharest
+VBW 2J  ---  Air Burkina
+ABL BX  ---  Air Busan
+MSC SM  ---  Air Cairo
+TPC TY  ---  Air Calédonie
+ACA AC  ---  Air Canada
+ROU RV  ---  Air Canada Rouge
+FWI TX  ---  Air Caraïbes
+SNC 2Q  ---  Air Cargo Carriers
+LHA GI  ---  Air Central
+CEY Y2  ---  Air Century
+CGN 9H  ---  Air Changan
+CVA 3C  ---  Air Chathams
+CCA CA  ---  Air China
+CAO CA  ---  Air China Cargo
+CNM CA  ---  Air China Inner Mongolia
+ACO 3E  ---  Air Choice One
+CCM XK  ---  Air Corsica
+VRE HF  ---  Air Côte d&#039;Ivoire
+CRQ YN  ---  Air Creebec
+DKN DN  ---  Air Deccan
+DJU DJ  ---  Air Djibouti
+ADO HD  ---  Air Do
+DLA EN  ---  Air Dolomiti
+AEA UX  ---  Air Europa
+OVA X5  ---  Air Europa Express
+XLL  ---  Air Excel
+WAF F4  ---  Air Flamenco
+AFR AF  ---  Air France
+HOP A5  ---  Air France Hop
+GHN  ---  Air Ghana
+GRL GL  ---  Air Greenland
+CGH GT  ---  Air Guilin
+AHO  ---  Air Hamburg
+AHK LD  ---  Air Hong Kong
+HAT HT  ---  Air Horizont
+FXI NY  ---  Air Iceland Connect
+AIH KJ  ---  Air Incheon
+AIC AI  ---  Air India
+AXB IX  ---  Air India Express
+AIE 3H  ---  Air Inuit
+ISS IG  ---  Air Italy
+AJX NQ  ---  Air Japan
+KBZ K7  ---  Air KBZ
+AKL IK  ---  Air Kiribati
+KOR JS  ---  Air Koryo
+LIZ Q9  ---  Air Liaison
+TLR 7Q  ---  Air Libya
+RLY  ---  Air Loyauté
+AMU NX  ---  Air Macau
+MDG MD  ---  Air Madagascar
+MBB ZM  ---  Air Manus
+MRS CW  ---  Air Marshall Islands
+MAU MK  ---  Air Mauritius
+MAR MV  ---  Air Mediterranean
+NTR NM  ---  Air Moana
+MLD 9U  ---  Air Moldova
+MNE 4O  ---  Air Montenegro
+ANZ NZ  ---  Air New Zealand
+AWN A7  ---  Air Niamey
+ANG PX  ---  Air Niugini
+ANT 4N  ---  Air North
+ANE YW  ---  Air Nostrum
+PST 7P  ---  Air Panama
+APK P4  ---  Air Peace
+RAR GZ  ---  Air Rarotonga
+SPM PJ  ---  Air Saint-Pierre
+SZN HC  ---  Air Senegal
+ASV RS  ---  Air Seoul
+ASL JU  ---  Air Serbia
+SEY HM  ---  Air Seychelles
+RSI YI  ---  Air Sunshine
+VTA VT  ---  Air Tahiti
+THT TN  ---  Air Tahiti Nui
+ATC TC  ---  Air Tanzania
+TID 8T  ---  Air Tindi
+TSC TS  ---  Air Transat
+ATN 8C  ---  Air Transport International (ATI)
+OTC A6  ---  Air Travel
+URG 3N  ---  Air Urga
+AVN NF  ---  Air Vanuatu
+AWI ZW  ---  Air Wisconsin
+AZW UM  ---  Air Zimbabwe
+AXM AK  ---  AirAsia
+XAX D7  ---  AirAsia X
+BTI BT  ---  airBaltic
+ABQ PA  ---  Airblue
+ABW RU  ---  AirBridge Cargo
+AIB  ---  Airbus
+BGA 4Y  ---  Airbus Transport International
+ACI SB  ---  Aircalin
+AXE ED  ---  AirExplore
+AFE FS  ---  Airfast Indonesia
+XAK P2  ---  Airkenya Express
+ATM  ---  Airlines of Tasmania
+LNK 4Z  ---  Airlink
+USC  ---  Airnet Express
+ANO TL  ---  Airnorth
+XSR  ---  Airshare
+SIF PF  ---  AirSial
+ATX T6  ---  AirSWIFT
+TOW 9L  ---  AirTanker
+DCT  ---  Airtask
+AXY 6V  ---  AirX Charter
+PNX IS  ---  AIS Airlines
+IAD I5  ---  AIX Connect
+AKJ QP  ---  Akasa Air
+AKK 6L  ---  Aklak Air
+ASA AS  ---  Alaska Airlines
+AER KO  ---  Alaska Central Express
+LAV AP  ---  AlbaStar
+GAL G2  ---  Albatros Airlines
+AWT 2B  ---  Albawings
+KHH DQ  ---  Alexandria Airlines
+LID D4  ---  Alidaunia
+CYL CT  ---  Alitalia CityLiner
+AKN  ---  Alkan Air
+ANA NH  ---  All Nippon Airways (ANA)
+AAY G4  ---  Allegiant Air
+LLR 9I  ---  Alliance Air
+UTY QQ  ---  Alliance Airlines
+AJK 4W  ---  Allied Air
+LMU UJ  ---  AlMasria Universal Airlines
+AAH KH  ---  Aloha Air Cargo
+APP AL  ---  AlpAvia
+BIC  ---  Alphaland Aviation
+AIP 5A  ---  Alpine Air Express
+DRU 6R  ---  Alrosa Air Company
+ALW K4  ---  ALS Ltd
+MMD 6I  ---  Alsie Express
+AHX MZ  ---  Amakusa Airlines
+APF HP  ---  Amapola Flyg
+AZN Z8  ---  Amaszonas
+AZP ZP  ---  Amaszonas Paraguay
+MZN  ---  Amazon Air
+AMV YJ  ---  AMC Airlines
+AIA 8R  ---  Amelia
+AEH NL  ---  Amelia International
+AAL AA  ---  American Airlines
+AMF A8  ---  Ameriflight
+AJT M6  ---  Amerijet International
+AKX EH  ---  ANA Wings
+TKJ VF  ---  AnadoluJet
+ANS OY  ---  Andes Líneas Aéreas
+AGU 2G  ---  Angara Airlines
+AXL Q3  ---  Anguilla Air Services
+AWG A2  ---  Animawings
+ADB  ---  Antonov Airlines
+RIV GP  ---  APG Airlines
+AZE ZE  ---  Arcus-Air
+AFG FG  ---  Ariana Afghan Airlines
+ARA W3  ---  Arik Air
+AIZ IZ  ---  Arkia Israeli Airlines
+NGT RM  ---  Armenia Aircompany
+AAC  ---  Army Air Corps
+ARU AG  ---  Aruba Airlines
+AAR OZ  ---  Asiana Airlines
+SKK KP  ---  ASKY Airlines
+TAY 3V  ---  ASL Airlines Belgium
+FPO 5O  ---  ASL Airlines France
+ABR AG  ---  ASL Airlines Ireland
+AMS  ---  ASTA Linhas Aéreas
+ACP 8V  ---  Astral Aviation
+TBZ I3  ---  ATA Airlines
+FLI RC  ---  Atlantic Airways
+GTI 5Y  ---  Atlas Air
+ATL  ---  Atlas Air Service AG
+VAS V8  ---  ATRAN
+GWR  ---  Aura Airlines
+AUK UI  ---  Auric Air Services
+AUR GR  ---  Aurigny Air Services
+SHU HZ  ---  Aurora
+AUT AU  ---  Austral Líneas Aéreas
+AUA OS  ---  Austrian Airlines
+ATV  ---  Avanti Air
+VXP XP  ---  Avelo Airlines
+AVJ YK  ---  Avia Traffic Company
+AZS ZR  ---  Aviacon Zitotrans
+AVA AV  ---  Avianca
+TPA QT  ---  Avianca Cargo
+LRC LR  ---  Avianca Costa Rica
+GLG 2K  ---  Avianca Ecuador
+TAI TA  ---  Avianca El Salvador
+GUG GU  ---  Avianca Guatemala
+ISV WC  ---  Avianca Honduras
+VIT MV  ---  Aviastar
+TUP 4B  ---  Aviastar-TU
+NVD X9  ---  Avion Express
+ROI 9V  ---  Avior Airlines
+AHY J2  ---  Azerbaijan Airlines
+AZO A4  ---  Azimuth
+AZM ZQ  ---  Azman Air
+RZO S4  ---  Azores Airlines
+AZY AJ  ---  Aztec Airways
+AZU AD  ---  Azul
+KTK ZF  ---  Azur Air
+UTN QU  ---  Azur Air Ukraine
+CFE CJ  ---  BA CityFlyer
+EFW BA  ---  BA Euroflyer
+BND  ---  Babcock
+BDR J4  ---  Badr Airlines
+BAE  ---  BAE Systems
+BHS UP  ---  Bahamasair
+BGH 1B  ---  Balkan Holidays Air
+BAV QH  ---  Bamboo Airways
+BKP PG  ---  Bangkok Airways
+BKA B4  ---  Bankair
+BSX 5B  ---  Bassaka Air
+BTK ID  ---  Batik Air
+MXD OD  ---  Batik Air Malaysia
+BBT B5  ---  BBN Airlines
+BLS JV  ---  Bearskin Airlines
+BES E8  ---  Bees Airlines
+CBJ JD  ---  Beijing Capital Airlines
+BRU B2  ---  Belavia Belarusian Airlines
+BAF  ---  Belgian Air Component
+BMJ CH  ---  Bemidji Airlines
+BRG 8E  ---  Bering Air
+BVT J8  ---  Berjaya Air
+BNL NB  ---  Berniq Airways
+BTN B3  ---  Bhutan Airlines
+BBC BG  ---  Biman Bangladesh Airlines
+BID  ---  Bin Air
+NTB  ---  Binter Cabo Verde
+IBB NT  ---  Binter Canarias
+BML BH  ---  Bismillah Airlines
+BLA 0B  ---  Blue Air
+BDA BZ  ---  Blue Dart Aviation
+BCI SI  ---  Blue Islands
+BBG BZ  ---  Bluebird Airways
+BBZ  ---  Bluebird Aviation
+BBD BO  ---  Bluebird Nordic
+BOE  ---  Boeing Company
+BOV OB  ---  Boliviana de Aviación
+BBA  ---  Bombardier
+BNZ AB  ---  Bonza
+BTQ 4B  ---  Boutique Air
+BRX DC  ---  BRA Braathens Regional Airways
+BIX TT  ---  Braathens International Airways
+SCW TF  ---  Braathens Regional Airlines
+BRS  ---  Brazilian Air Force
+MXY MX  ---  Breeze Airways
+BTZ L9  ---  Bristow Group
+BHL UH  ---  Bristow Helicopters
+BAW BA  ---  British Airways
+BEL SN  ---  Brussels Airlines
+BHA U4  ---  Buddha Air
+BFL J4  ---  Buffalo Airways
+BVL LB  ---  Bul Air
+LZB FB  ---  Bulgaria Air
+AFB  ---  Bulgarian Air Force
+BRQ UZ  ---  Buraq Air
+RYS RR  ---  Buzz
+TCV VR  ---  Cabo Verde Airlines
+CVE  ---  Cabo Verde Express
+CXE 9Q  ---  Caicos Express Airways
+CCE  ---  Cairo Aviation
+ICL 5C  ---  CAL Cargo Air Lines
+CFV A7  ---  Calafia Airlines
+CAV MO  ---  Calm Air
+CRC QC  ---  Camair-Co
+KME KR  ---  Cambodia Airways
+KHV K6  ---  Cambodia Angkor Air
+CJL  ---  Canada Jetlines
+MPE 5T  ---  Canadian North
+RSC NT  ---  Canarias Airlines
+CNF PM  ---  Canaryfly
+KAP 9K  ---  Cape Air
+CAD 8F  ---  Cardig Air
+CJT W8  ---  Cargojet Airways
+CLU P3  ---  CargoLogicAir
+CLX CV  ---  Cargolux
+ICV C8  ---  Cargolux Italia
+BWA BW  ---  Caribbean Airlines
+KRP V3  ---  Carpatair
+CPN IV  ---  Caspian Airlines
+CPA CX  ---  Cathay Pacific Airways
+CVK  ---  CAVOK Air
+CAY KX  ---  Cayman Airways
+SRQ DG  ---  Cebgo
+CEB 5J  ---  Cebu Pacific Air
+CEL C2  ---  CEIBA Intercontinental
+KEM 5Z  ---  CemAir
+HLF I9  ---  Central Airlines
+GLR 9M  ---  Central Mountain Air
+MFX C6  ---  Centrum Air
+IRU  ---  Chabahar Airlines
+GSW GM  ---  Chair Airlines
+CHR  ---  Chairman Aviation
+CLG CE  ---  Chalair Aviation
+CHZ X6  ---  Challenge Air Cargo
+CHG X7  ---  Challenge Airlines
+SAW 6Q  ---  Cham Wings Airlines
+HKS  ---  CHC Helikopter Service
+UEA EU  ---  Chengdu Airlines
+CHY  ---  China Air Cargo
+CAL CI  ---  China Airlines
+CKK CK  ---  China Cargo Airlines
+CES MU  ---  China Eastern Airlines
+HXA G5  ---  China Express Airlines
+CYZ CF  ---  China Postal Airlines
+CSN CZ  ---  China Southern Airlines
+CUA KN  ---  China United Airlines
+CQN OQ  ---  Chongqing Airlines
+NDL  ---  Chrono Aviation
+CIN C7  ---  Cinnamon Air
+CTV QG  ---  Citilink
+BCY WX  ---  CityJet
+CAP  ---  Civil Air Patrol
+OMT CC  ---  CM Airlines
+CSV CQ  ---  Coastal Aviation
+JTE NC  ---  Cobham Aviation Services Australia
+CGZ GY  ---  Colorful Guizhou Airlines
+CAW MN  ---  Comair
+CLA  ---  Comlux
+KAZ  ---  Comlux Kazakhstan
+MLM  ---  Comlux Malta
+UCA C5  ---  CommutAir
+KMZ O5  ---  Comores Aviation
+CPZ CP  ---  Compass Airlines
+FGD  ---  Conair Group
+CFG DE  ---  Condor Flugdienst
+CGA 8Z  ---  Congo Airways
+VTE LF  ---  Contour Airlines
+VCV V0  ---  Conviasa
+CMP CM  ---  Copa Airlines
+CAI XC  ---  Corendon Airlines
+CXI XR  ---  Corendon Airlines Europe
+CND CD  ---  Corendon Dutch Airlines
+CRL SS  ---  Corsair International
+GRA GW  ---  Costa Rica Green Airways
+COY 7C  ---  Coyne Airways
+CTN OU  ---  Croatia Airlines
+CRA C8  ---  Cronos Airlines
+CWN FQ  ---  Crown Airlines
+CSA OK  ---  CSA Czech Airlines
+CUB CU  ---  Cubana
+CYP CY  ---  Cyprus Airways
+CEF  ---  Czech Air Force
+DAO D3  ---  Daallo Airlines
+CCD CA  ---  Dalian Airlines
+JOC DN  ---  Dan Air
+DAN 9J  ---  Dana Air
+DTR DX  ---  Danish Air Transport
+DAL DL  ---  Delta Air Lines
+DNM G6  ---  Denim Air 
+DAE D5  ---  DHL Aero Expreso
+DHA Q7  ---  DHL Air Austria
+DHK D0  ---  DHL Air UK
+JOS L3  ---  DHL de Guatemala, S.A.
+DHX ES  ---  DHL International E.C.
+OCN 4Y  ---  Discover Airlines
+DVR 3R  ---  Divi Divi Air
+EPA DZ  ---  Donghai Airlines
+DNU R6  ---  DOT LT
+HDA KA  ---  Dragonair
+DRK KB  ---  Druk Air (Royal Bhutan Airlines)
+DUB  ---  Dubai Royal Air Wing
+EGU H7  ---  Eagle Air
+FEI IS  ---  Eagle Air Iceland
+ESR ZE  ---  Eastar Jet
+EAL 2D  ---  Eastern Airlines, LLC
+EZE T3  ---  Eastern Airways
+EFY VE  ---  Easyfly
+EZY U2  ---  easyJet
+EJU EC  ---  easyJet Europe
+EZS DS  ---  EasyJet Switzerland
+BCS QY  ---  EAT Leipzig
+ECO 8J  ---  Ecojet
+EDW WK  ---  Edelweiss Air
+MSR MS  ---  EgyptAir
+MSX  ---  EgyptAir Cargo
+ELY LY  ---  EL AL Israel Airlines
+EAF  ---  Electra Airways
+MNU 7Q  ---  Elite Airways
+ELB EL  ---  Ellinair
+GIE E4  ---  Elysian Airlines
+EMB  ---  Embraer
+UAE EK  ---  Emirates
+CFS EM  ---  Empire Airlines
+EDV 9E  ---  Endeavor Air
+ENT E4  ---  Enter Air
+ENY MQ  ---  Envoy Air
+EKA E7  ---  Equaflight
+ERT B8  ---  Eritrean Airlines
+ESF E7  ---  Estafeta Carga Aérea
+SZL RN  ---  Eswatini Air
+ETH ET  ---  Ethiopian Airlines
+ETD EY  ---  Etihad Airways
+MMZ YU  ---  EuroAtlantic Airways
+BUC H6  ---  European Air Charter
+URO SE  ---  European Cargo
+EWG EW  ---  Eurowings
+EVA BR  ---  EVA Air
+VTS 5V  ---  Everts Air
+EWR ZD  ---  Ewa Air
+EVS 8K  ---  Exploits Valley Air Services
+ASQ EV  ---  ExpressJet
+EZR EZ  ---  EZAir
+EZA MG  ---  Eznis Airways
+FTZ FN  ---  Fastjet
+FJW FN  ---  Fastjet Zimbabwe
+FCK  ---  FCS Flight Calibration Services
+FDX FX  ---  FedEx
+FXX FO  ---  Felix Airways
+FJI FJ  ---  Fiji Airways
+FJA FJ  ---  Fiji Link
+FIN AY  ---  Finnair
+FNF  ---  Finnish Air Force
+FFM FY  ---  Firefly
+FAB 7F  ---  First Air
+EXV 8D  ---  FitsAir
+FLE F8  ---  Flair Airlines
+FXT W2  ---  FlexFlight
+LXJ  ---  FlexJet
+VOR  ---  Flight Calibration Services Ltd
+OPT  ---  Flight Options
+EDR 8W  ---  Fly All Ways
+FBA IF  ---  Fly Baghdad
+FJL 9P  ---  Fly Jinnah
+MFG 8G  ---  Fly Mid Africa
+VAW F6  ---  Fly2Sky Airlines
+FFV 5H  ---  Fly540
+FAD F3  ---  flyadeal
+BEE BE  ---  FlyBE
+FLG S9  ---  FlyBig
+FBD FO  ---  Flybondi
+FDB FZ  ---  FlyDubai
+FEG FT  ---  FlyEgypt
+VQI VP  ---  Flyme
+MNT 5M  ---  FlyMontserrat
+KNE XY  ---  flynas
+FIA 5F  ---  FLYONE
+FOE OE  ---  FLYONE Romania
+FRE FP  ---  FlyPelican
+FOX FS  ---  Flyr
+FHY FH  ---  Freebird Airlines
+FDT 4F  ---  Freedom Airline Express
+FAF  ---  French Air Force
+FBU BF  ---  French Bee
+FNY  ---  French Navy
+FFT F9  ---  Frontier Airlines
+FDA JH  ---  Fuji Dream Airlines
+FZA FU  ---  Fuzhou Airlines
+GMA  ---  Gama Aviation
+GIA GA  ---  Garuda Indonesia
+GZP 4G  ---  Gazpromavia
+IGT GH  ---  Georgian Airlines
+TGZ A9  ---  Georgian Airlines
+GEL D4  ---  Geosky
+GAF  ---  German Air Force
+RGN XG  ---  Gestair Cargo
+GJT GW  ---  GetJet Airlines
+GMS NJ  ---  Ghadames Air Transport
+GAK 5S  ---  Global Aviation and Service Group
+SVW  ---  Global Jet Luxembourg
+GAC W2  ---  GlobeAir
+GOW G8  ---  Go First
+RLX 6G  ---  Go2Sky
+GJS G7  ---  GoJet Airlines
+GLO G3  ---  Gol Transportes Aéreos
+BGF  ---  Government of Bulgaria
+GPX IV  ---  GP Aviation
+SCE YR  ---  Grand Canyon Scenic Airlines
+GDC CN  ---  Grand China Airlines
+GUN GV  ---  Grant Aviation
+GDE  ---  Great Dane Airlines
+GLA ZK  ---  Great Lakes Airlines
+HGB HB  ---  Greater Bay Airlines
+HAF  ---  Greek Air Force
+GFA GF  ---  Gulf Air
+GBG G2  ---  GullivAir
+CBG GX  ---  GX Airlines
+HHN HR  ---  Hahn Air
+CHH HU  ---  Hainan Airlines
+HUE  ---  Haute Aviation
+HAL HA  ---  Hawaiian Airlines
+HVY HN  ---  HeavyLift Cargo Airlines
+HBH NS  ---  Hebei Airlines
+HBR  ---  Hebridean Air Services
+HTY HY  ---  Hélity Copter Airlines
+OAW 2L  ---  Helvetic Airways
+HST HN  ---  Heston Airlines
+HFY 5K  ---  Hi Fly
+HIM H9  ---  Himalaya Airlines
+HND OI  ---  Hinterland Aviation
+HYM H7  ---  HiSky
+HYS H4  ---  HiSky Europe
+NTH 6L  ---  Hokkaido Air System
+HES 5Q  ---  Holiday Europe
+HKC RH  ---  Hong Kong Air Cargo
+CRK HX  ---  Hong Kong Airlines
+HKE UO  ---  Hong Kong Express
+QXE QX  ---  Horizon Air
+MML MR  ---  Hunnu Air
+RSY H5  ---  I-Fly
+SWQ WQ  ---  iAero Airways
+CSQ II  ---  IBC Airways
+IBE IB  ---  Iberia
+IBS I2  ---  Iberia Express
+EVE E9  ---  Iberojet
+IBX FW  ---  Ibex Airlines
+IAN Z4  ---  Ibom Air
+ICE FI  ---  Icelandair
+KAR EO  ---  Ikar
+IAR V8  ---  Iliamna Air Taxi
+IFC  ---  Indian Air Force
+IGO 6E  ---  IndiGo
+IDA I8  ---  Indonesia Air Transport
+AWQ QZ  ---  Indonesia AirAsia
+IIA I7  ---  Int&#039;Air Îles
+IWY JY  ---  InterCaribbean Airways
+IOU I4  ---  International AirLink
+IAE IO  ---  IrAero
+IRA IR  ---  Iran Air
+IRB B9  ---  Iran Airtour
+IRC EP  ---  Iran Aseman Airlines
+IAW IA  ---  Iraqi Airways
+IRL  ---  Irish Air Corps
+EXP I4  ---  Island Air Express
+IOS  ---  Isles of Scilly Skybus
+IAF  ---  Israeli Air Force
+ISR 6H  ---  Israir Airlines
+ITY AZ  ---  ITA Airways
+IPM 8I  ---  ITA Transportes Aéreos
+IAM  ---  Italian Air Force
+IEI  ---  Italian Army
+IZA I8  ---  Izhavia
+JLJ XM  ---  J-Air
+JMA JM  ---  Jambojet
+JAC JC  ---  Japan Air Commuter
+JAL JL  ---  Japan Airlines
+JTA NU  ---  Japan TransOcean Air
+JAW JO  ---  Jasmin Airways
+JZR J9  ---  Jazeera Airways
+JZA QK  ---  Jazz
+JCC QD  ---  JC International Airlines
+JJA 7C  ---  Jeju Air
+JTD JO  ---  Jet Time
+EXS LS  ---  Jet2
+JAF TB  ---  Jetairfly
+JBU B6  ---  JetBlue Airways
+QNZ QF  ---  Jetconnect
+JFA  ---  Jetfly
+JAT JA  ---  JetSmart
+JES WJ  ---  jetSmart Argentina
+JST JQ  ---  Jetstar
+JSA 3K  ---  Jetstar Asia
+JJP GK  ---  Jetstar Japan
+JWX WU  ---  Jetways Airlines
+CJX RY  ---  Jiangxi Air
+JNA LJ  ---  Jin Air
+JBR 3B  ---  Job Air - Central Connect Airlines
+JAV R5  ---  Jordan Aviation
+JOY JR  ---  Joy Air
+JSX XE  ---  JSX
+JUB 3J  ---  Jubba Airways
+JBW JZ  ---  Jubba Airways Kenya
+DKH HO  ---  Juneyao Airlines
+KMI 8K  ---  K-Mile Air
+QNK N9  ---  Kabo Air
+KAI  ---  KaiserAir
+CKS K4  ---  Kalitta Air
+KFS K9  ---  Kalitta Charters
+KMF RQ  ---  Kam Air
+KND K8  ---  Kan Air
+KAJ 5R  ---  Karthago Airlines
+IRG NV  ---  Karun Airlines
+TWM IK  ---  Kaya Airlines
+KEN M5  ---  Kenmore Air
+KBA 4K  ---  Kenn Borek Air
+KQA KQ  ---  Kenya Airways
+LYM KG  ---  Key Lime Air
+KFA FK  ---  KF Cargo
+KIS Y9  ---  Kish Air
+KLJ  ---  KlasJet
+KLC WA  ---  KLM Cityhopper
+KLM KL  ---  KLM Royal Dutch Airlines
+KMM KM  ---  KM Malta Airlines
+KMA KO  ---  Komiaviatrans
+KAL KE  ---  Korean Air
+SSJ KI  ---  KrasAvia
+KNA KY  ---  Kunming Airlines
+KAF  ---  Kuwait Air Force
+KAC KU  ---  Kuwait Airways
+LYN QH  ---  Kyrgyzstan Air Company
+DJT B0  ---  La Compagnie
+LDE 5U  ---  LADE - Lineas Aéreas del Estado
+LAM TM  ---  LAM Mozambique Airlines
+MKR LQ  ---  Lanmei Airlines
+LAO QV  ---  Lao Airlines
+LLL LK  ---  Lao Skyway
+LHS  ---  Laparkan Airways
+LER QL  ---  LASER-Linea Aérea de Servicio Ejecutivo Regional
+LTG M3  ---  LATAM Cargo Brasil
+LCO UC  ---  LATAM Cargo Chile
+LAE L7  ---  LATAM Cargo Colombia
+LAN LA  ---  LATAM Chile
+ARE 4C  ---  LATAM Colombia
+LNE XL  ---  LATAM Ecuador
+LXP LU  ---  LATAM Express
+LAP PZ  ---  LATAM Paraquay
+LPE LP  ---  LATAM Perú
+LDA LW  ---  Lauda Europe
+LZF  ---  Lease Fly
+LIA LI  ---  LIAT
+LAA LN  ---  Libyan Airlines
+LCR  ---  Libyan Arab Air Cargo
+LWA YL  ---  Libyan Wings
+GBB GE  ---  LIFT Airline
+LAU 4L  ---  Lineas Aéreas Suramericanas
+LNI JT  ---  Lion Air
+SNG LT  ---  LJ Air
+LOG LM  ---  Loganair
+CDC GJ  ---  Loong Air
+LOT LO  ---  LOT Polish Airlines
+LKE 8L  ---  Lucky Air
+LGW HE  ---  Luftfahrtgesellschaft Walter
+DLH LH  ---  Lufthansa
+GEC LH  ---  Lufthansa Cargo
+LHX VL  ---  Lufthansa City Airlines
+CLH CL  ---  Lufthansa CityLine
+LTR L5  ---  Lufttransport
+LWI L9  ---  Lumiwings
+LGL LG  ---  Luxair
+LWG BN  ---  Luxwing Aviation
+LYD  ---  Lydd Air
+LYC L2  ---  Lynden Air Cargo
+DAT Y9  ---  Lynx Air
+SRR DJ  ---  Maersk Air Cargo
+GMT GM  ---  Magnicharters
+IRM W5  ---  Mahan Air
+MWI 3W  ---  Malawi Airlines
+MAS MH  ---  Malaysia Airlines
+DQA Q2  ---  Maldivian
+MLT DB  ---  Maleth-Aero
+MAY  ---  Malta Air
+MDA AE  ---  Mandarin Airlines
+MNO JE  ---  Mango
+MYP 7Y  ---  Mann Yatanarpon Airlines
+MAV NR  ---  Manta Air
+PAM M1  ---  MAP Linhas Aéreas
+MBU DI  ---  Marabu
+MTO O8  ---  Marathon Airlines
+MPH MP  ---  Martinair
+MAA M7  ---  mas
+MWG MH  ---  MASwings
+MAI L6  ---  Mauritania Airlines
+MGH 4M  ---  Mavi Gök Airlines
+NGL VM  ---  Max Air
+MYD 2M  ---  Maya Island Air
+MYI 7M  ---  MAYAir
+MNS BM  ---  Medsky Airways
+ASH YV  ---  Mesa Airlines
+MHV M2  ---  MHS Aviation
+MGL OM  ---  MIAT-Mongolian Airlines
+MEA ME  ---  Middle East Airlines
+MSA M4  ---  Mistral Air
+MJF  ---  MJET
+MNB MB  ---  MNG Airlines
+MXE  ---  Moçambique Expresso
+MWM WD  ---  Modern Logistics
+MHO MW  ---  Mokulele Airlines
+MAL  ---  Morningstar Air Express
+MYU 2Y  ---  My Indo Airlines
+NEP N7  ---  My Jet Xpress Airlines
+MMA 8M  ---  Myanmar Airways International
+UBA UB  ---  Myanmar National Airlines
+MYW MJ  ---  MyWay Airlines
+NAS  ---  Nakanihon Air Service
+APX  ---  Naljets
+LKN IN  ---  NAM Air
+NCR N8  ---  National Airlines
+OAN  ---  NATO
+NRR 5C  ---  Nature Air
+RON ON  ---  Nauru Airlines
+NAY ZN  ---  Naysa
+NOS NO  ---  Neos
+RNA RA  ---  Nepal Airlines
+NMA NE  ---  Nesma Airlines
+NSS NA  ---  Nesma Airlines (Saudi Arabia)
+EJA 1I  ---  NetJets
+NJU 1I  ---  NetJets Air Transport UK
+NJE 1I  ---  NetJets Europe
+NWK QF  ---  Network Aviation
+NEA EJ  ---  New England Airlines
+RVF 7H  ---  New Pacific Airlines
+NIN 6N  ---  Niger Airlines
+NGR  ---  Nigerian Air Force
+NIA NP  ---  Nile Air
+NCA KZ  ---  Nippon Cargo Airlines (NCA)
+NOK DD  ---  Nok Air
+NRL N5  ---  Nolinor Aviation
+NHX  ---  Noordzee Helikopters Vlaanderen
+FCM N7  ---  Nordic Regional Airlines
+EST EE  ---  Nordica
+TYA Y7  ---  NordStar
+NWS N4  ---  Nordwind Airlines
+FNA  ---  Norlandair
+NBT N0  ---  Norse Atlantic Airways
+UBT Z0  ---  Norse Atlantic UK
+NCB  ---  North Cariboo Air
+NWC 0E  ---  North-West Air Company
+NWL HW  ---  North-Wright Airways Ltd.
+NAC NC  ---  Northern Air Cargo (NAC)
+GJA  ---  NorthStar Air Tours
+PLR J3  ---  Northwestern Air
+IBK D8  ---  Norwegian Air International
+NAN DH  ---  Norwegian Air Norway
+NAX DY  ---  Norwegian Air Shuttle
+NSZ D8  ---  Norwegian Air Sweden
+NLH DU  ---  Norwegian Long Haul
+LBT BJ  ---  Nouvelair
+NOV O9  ---  Nova Airways
+NVR N9  ---  Novair
+NVQ VQ  ---  Novoair
+OKA BK  ---  Okay Airways
+OAL OA  ---  Olympic Air
+OLY  ---  Olympus Airways
+OMA WY  ---  Oman Air
+OAE OY  ---  Omni Air International
+HGO HC  ---  One Air
+OEW OX  ---  One Airways
+OHY 8Q  ---  Onur Air
+ORG O7  ---  Orenburzhye
+ORC OC  ---  Oriental Air Bridge
+OGN OG  ---  Originair
+OTT  ---  OTT Airlines
+OLA OF  ---  Overland Airways
+PAQ PE  ---  Pacific Air Express
+PIC BL  ---  Pacific Airlines
+PCO 8P  ---  Pacific Coastal Airlines
+PIA PK  ---  Pakistan International Airlines (PIA)
+PVL PB  ---  PAL Airlines
+GAP 2P  ---  PAL Express
+PNW PF  ---  Palestinian Airlines
+AAV 8Y  ---  Pan Pacific Airlines
+PSC P6  ---  Pascan Aviation Inc.
+APJ MM  ---  Peach
+PGT PC  ---  Pegasus Airlines
+PAS IP  ---  Pelita Air
+NLA KS  ---  PenAir
+PEV PE  ---  People&#039;s
+PAG YP  ---  Perimeter Airlines
+PAL PR  ---  Philippine Airlines
+APG Z2  ---  Philippines AirAsia
+PDT PT  ---  Piedmont Airlines
+PNP  ---  Pineapple Air
+GGN ZX  ---  Pivot Airlines
+FPY OG  ---  Play
+PUE PU  ---  Plus Ultra Líneas Aéreas
+TOK CG  ---  PNG Air
+PBD DP  ---  Pobeda
+PAC PO  ---  Polar Air Cargo
+RKA PI  ---  Polar Airlines
+PLF  ---  Polish Air Force
+POE PD  ---  Porter Airlines
+PRF PW  ---  Precision Air Services
+AUH MO  ---  Presidential Flight (UAE)
+PWF 8W  ---  Private Wings
+PVG P6  ---  Privilege Style
+PFZ P0  ---  Proflight Zambia
+JIA OH  ---  PSA Airlines
+QNT HH  ---  Qanot Sharq
+QFA QF  ---  Qantas Airways
+QFA QF  ---  Qantas Freight
+QLK QF  ---  QantasLink
+QTR QR  ---  Qatar Airways
+QAF  ---  Qatar Amiri Flight
+QAZ IQ  ---  Qazaq Air
+QSM QB  ---  Qeshm Air
+QDA QW  ---  Qingdao Airlines
+FQA QO  ---  Quikjet Airlines
+TSH  ---  R1 Airlines
+MTL  ---  RAF-Avia
+RMY TH  ---  Raya Airways
+RSX 4S  ---  Red Sea Airlines
+RWZ WZ  ---  Red Wings Airlines
+REG 8N  ---  Regional Air
+RXA ZL  ---  Regional Express
+RPA YX  ---  Republic Airlines
+SAF  ---  Republic of Singapore Air Force
+WEW  ---  Rise Air
+ROF  ---  Romanian Air Force
+SDM FV  ---  Rossiya
+RJD RG  ---  Rotana Jet
+RRR  ---  Royal Air Force
+MJN  ---  Royal Air Force of Oman
+RAM AT  ---  Royal Air Maroc
+RXP  ---  Royal Air Maroc Express
+ASY  ---  Royal Australian Air Force
+RBL  ---  Royal Belau Airways
+RBA BI  ---  Royal Brunei Airlines
+CFC  ---  Royal Canadian Air Force
+ABG RL  ---  Royal Flight
+RJZ  ---  Royal Jordanian Air Force
+RJA RJ  ---  Royal Jordanian Airlines
+NVY  ---  Royal Navy
+NAF  ---  Royal Netherlands Air Force
+KIW  ---  Royal New Zealand Air Force
+NOW  ---  Royal Norwegian Air Force
+RSF  ---  Royal Saudi Air Force
+RYW RY  ---  Royal Wings
+RLH DR  ---  Ruili Airlines
+RLU 7R  ---  RusLine
+RFF  ---  Russian Air Force
+RUC 5R  ---  RUTACA Airlines
+RWD WB  ---  RwandAir
+RYA 7S  ---  Ryan Air Services
+RYR FR  ---  Ryanair
+RUK RK  ---  Ryanair UK
+RAC  ---  Ryukyu Air Commuter
+SBI S7  ---  S7 Airlines
+SCT  ---  Saab
+SRO MZ  ---  SAEREO
+SFR FA  ---  Safair
+XLK F2  ---  Safari Link
+SAQ K3  ---  Safe Air Company
+OMS OV  ---  SalamAir
+PAO OL  ---  Samoa Airways
+LRS RZ  ---  SANSA Airlines
+SAS SK  ---  SAS
+SAT SP  ---  SATA Air Açores
+NSE 9R  ---  SATENA
+SVA SV  ---  Saudia
+SZS SL  ---  Scandinavian Airlines Connect
+VSV DV  ---  SCAT Airlines
+TGW TR  ---  Scoot
+SBS BB  ---  Seaborne Airlines
+SHI IS  ---  Sepehran Airlines
+SEP ER  ---  SereneAir
+PSV 5S  ---  Servicios Aéreos Profesionales
+RVP WV  ---  Sevenair
+SSF D2  ---  Severstal Air Company
+CSS O3  ---  SF Airlines
+CDG SC  ---  Shandong Airlines
+CSH FM  ---  Shanghai Airlines
+CSZ ZH  ---  Shenzhen Airlines
+SHA N9  ---  Shree Airlines
+CSC 3U  ---  Sichuan Airlines
+SPA SI  ---  Sierra Pacific Airlines
+AZQ ZP  ---  Silk Way Airlines
+AZG 7L  ---  Silk Way West Airlines
+SLK MI  ---  SilkAir
+USA  ---  Silkavia
+SLD  ---  Silver Air
+SIL 3M  ---  Silver Airways
+SIA SQ  ---  Singapore Airlines
+SQC SQ  ---  Singapore Airlines Cargo
+CDV  ---  Skol Airlines
+SKU H2  ---  Sky Airline
+SWU BQ  ---  Sky Alps
+SWM ZA  ---  Sky Angkor Airlines
+SEH GQ  ---  Sky Express
+SAY U3  ---  Sky Gates Airlines
+SHH  ---  Sky High Aviation Services
+KYE GG  ---  Sky Lease Cargo
+FML  ---  Sky Mali
+SPD UY  ---  Sky Prime Aviation
+SKV KV  ---  Sky Regional Airlines
+MSJ M8  ---  SkyJet Airlines
+SLQ  ---  Skylink Express
+SKY BC  ---  Skymark Airlines
+IGA TE  ---  SkyTaxi
+SKP QN  ---  Skytrans
+SQP PQ  ---  SkyUp
+SEU U5  ---  SkyUp Europe
+SEW OW  ---  Skyward Express
+SKW OO  ---  SkyWest Airlines
+SQF  ---  Slovak Air Force
+SME  ---  Smart Aviation Company
+AUL 5N  ---  Smartavia
+ART 6Y  ---  Smartlynx Airlines
+TVS QS  ---  Smartwings
+TVL 7O  ---  Smartwings Hungary
+TVP 3Z  ---  Smartwings Poland
+TVQ 6D  ---  Smartwings Slovakia
+OLC 4S  ---  Solar Cargo
+SNJ 6J  ---  Solaseed Air
+SOL IE  ---  Solomon Airlines
+SMR SZ  ---  Somon Air
+SOR  ---  Sonair
+SDA S8  ---  Sounds Air
+SAA SA  ---  South African Airways
+SOO 9S  ---  Southern Air
+SOA PL  ---  Southern Air Charter
+FDY 9X  ---  Southern Airways Express
+SWA WN  ---  Southwest Airlines
+STW 2S  ---  Southwind Airlines
+AME  ---  Spanish Air Force
+SEJ SG  ---  SpiceJet
+NKS NK  ---  Spirit Airlines
+CQH 9C  ---  Spring Airlines
+SJO IJ  ---  Spring Airlines Japan
+SRN P8  ---  SprintAir
+ALK UL  ---  SriLankan Airlines
+SJY SJ  ---  Sriwijaya Air
+SBU PV  ---  St Barth Commuter
+BRH  ---  Star Air
+SEK 4R  ---  Star East Airlines
+SRU 2I  ---  Star Perú
+SFJ 7G  ---  StarFlyer
+SJX JX  ---  Starlux Airlines
+STK RE  ---  Stobart Air
+STP 8F  ---  STP Airways
+SUD SD  ---  Sudan Airways
+SMM  ---  Summit Air
+SNR S6  ---  Sun Air
+SUS EZ  ---  Sun Air of Scandinavia
+SCX SY  ---  Sun Country Airlines
+VKG DK  ---  Sunclass Airlines
+SDR SR  ---  Sundair
+SXS XQ  ---  SunExpress
+SXD XG  ---  SunExpress Deutschland
+KSZ S6  ---  Sunrise Airways
+SWG WG  ---  Sunwing Airlines
+YZR Y8  ---  Suparna Airlines
+SJV IU  ---  Super Air Jet
+SLM PY  ---  Surinam Airways
+SQS SI  ---  Susi Air
+SWV  ---  Swedish Air Ambulance
+SVF  ---  Swedish Air Force
+SWT WT  ---  Swiftair
+SWR LX  ---  Swiss
+SUI  ---  Swiss Air Force
+WSW WO  ---  Swoop
+AWU 7E  ---  Sylt Air
+SYR RB  ---  Syrian Air
+TWB TW  ---  T&#039;way Air
+DTA DT  ---  TAAG Angola Airlines
+TBM HH  ---  Taban Air
+TWI TI  ---  Tailwind Airlines
+TJK 7J  ---  Tajik Air
+PGA NI  ---  TAP Express
+TAP TP  ---  TAP Portugal
+TQN K3  ---  Taquan Air
+LCT YQ  ---  TAR Aerolíneas
+TRQ 3T  ---  Tarco Aviation
+ROT RO  ---  TAROM Romanian Air Transport
+TMN HJ  ---  Tasman Cargo Airlines
+DTH SF  ---  Tassili Airlines
+TZS  ---  TCA
+TVR T8  ---  Terra Avia
+TNZ  ---  Texel Air NZ
+TEZ  ---  Tez Jet Airlines
+AIQ FD  ---  Thai AirAsia
+TAX XJ  ---  Thai AirAsia X
+THA TG  ---  Thai Airways International
+TLM SL  ---  Thai Lion Air
+THD WE  ---  Thai Smile
+TVJ VZ  ---  Thai Vietjet Air
+THU  ---  Thunder Airlines
+GCR GS  ---  Tianjin Airlines
+TBA TV  ---  Tibet Airlines
+TTW IT  ---  Tigerair Taiwan
+AWC ZT  ---  Titan Airways
+TMT TM  ---  Titan Airways Malta
+TFX  ---  Toll Aviation
+TFR  ---  Toll Global Express
+TTL  ---  Total Linhas Aéreas
+THE 9D  ---  Toumaï Air Tchad
+TDR C3  ---  Trade Air
+GPD TJ  ---  Tradewind Aviation
+TSG Q8  ---  Trans Air Congo
+TMW M8  ---  Trans Maldivian Airways
+TFK PQ  ---  Transafrik International
+MUI KH  ---  Transair
+TRA HV  ---  Transavia
+TVF TO  ---  Transavia France
+KTB  ---  Transaviabaltika
+TIW T9  ---  Transcarga Intl Airways
+TNU 8B  ---  TransNusa
+TGU 5U  ---  Transportes Aéreos Guatemaltecos
+TMG GM  ---  Tri-MG Airlines
+TGN IL  ---  Trigana Air Service
+TOS 9N  ---  Tropic Air
+TRJ 2T  ---  TruJet
+TOM BY  ---  TUI Airways
+TUI X3  ---  TUI fly Deutschland
+TFL OR  ---  TUI fly Netherlands
+BLX 6B  ---  TUIfly Nordic
+TAR TU  ---  Tunisair
+TUX UG  ---  Tunisair Express
+TAJ  ---  Tunisavia
+HVK  ---  Turkish Air Force
+THY TK  ---  Turkish Airlines
+TUA T5  ---  Turkmenistan Airlines
+VTU V9  ---  Turpial Airlines
+CYF U8  ---  Tus Airways
+TJT T7  ---  Twin Jet
+AUI PS  ---  Ukraine International Airlines
+NYS 7Q  ---  Ulendo Airlink
+KZU GO  ---  ULS Airlines Cargo
+UIA B7  ---  UNI Airways
+UQA  ---  Unique Air
+UAL UA  ---  United Airlines
+UAF  ---  United Arab Emirates Air Force
+UNA U5  ---  United Nigeria Airlines
+AIO  ---  United States Air Force
+CNV  ---  United States Navy
+CMB  ---  United States Transportation Command
+UVL VO  ---  Universal Air
+UCG U7  ---  UniWorld Air Cargo
+UPS 5X  ---  UPS Airlines
+SVR U6  ---  Ural Airlines
+CUH UQ  ---  Urumqi Air
+UBG BS  ---  US-Bangla Airlines
+JUS UJ  ---  USA Jet Airlines
+UTA UT  ---  UTair Aviation
+UVT RT  ---  UVT Aero
+UZB HY  ---  Uzbekistan Airways
+VLJ  ---  VallJet
+FVJ  ---  ValueJet
+VNE VN  ---  Venezolana
+VEC V4  ---  Vensecar Internacional, C.A.
+VIL V6  ---  VI Airlink
+VES V4  ---  Vieques Air Link
+VJC VJ  ---  VietJet Air
+VFC 0V  ---  Vietnam Air Services
+HVN VN  ---  Vietnam Airlines
+VAG VU  ---  Vietravel Airlines
+VIR VS  ---  Virgin Atlantic
+VOZ VA  ---  Virgin Australia
+OBT  ---  Virgin Orbit
+VJT  ---  VistaJet
+VTI UK  ---  Vistara
+VVC FC  ---  Viva Air Colombia
+VPE VV  ---  Viva Air Peru
+VIV VB  ---  VivaAerobús
+PTB 2Z  ---  Voepass Linhas Aéreas
+VOI Y4  ---  Volaris
+VOC Q6  ---  Volaris Costa Rica
+VOS N3  ---  Volaris El Salvador
+VDA VI  ---  Volga-Dnepr Airlines
+VOE V7  ---  Volotea Airlines
+VXS  ---  Voluxis
+VRG  ---  Voyage Air
+VLG VY  ---  Vueling Airlines
+PLM EB  ---  Wamos Air
+WAV 4W  ---  Warbelow&#039;s Air Ventures Inc.
+WSG WT  ---  Wasaya Airways
+WDL WH  ---  WDL Aviation
+CHB PN  ---  West Air
+SWN  ---  West Air Sweden
+NPT PT  ---  West Atlantic UK
+WAA  ---  Westair Aviation
+WST WT  ---  Western Air
+WGN KD  ---  Western Global Airlines
+WJA WS  ---  WestJet Airlines
+WEN WR  ---  WestJet Encore
+WHT WI  ---  White
+WIF WF  ---  Widerøe
+WHS  ---  Wiking Helikopter Service
+WIA WM  ---  Winair
+WRC 7W  ---  Windrose Airlines
+RPB P5  ---  Wingo
+WON IW  ---  Wings Air
+WZZ W6  ---  Wizz Air
+WAZ 5W  ---  Wizz Air Abu Dhabi
+WMT W4  ---  Wizz Air Malta
+WUK W9  ---  Wizz Air UK
+WAL K8  ---  World Atlantic Airlines
+WFL 2W  ---  World2Fly
+WRT 8V  ---  Wright Air Service
+CXA MF  ---  Xiamen Airlines
+XOJ  ---  XOJET Aviation
+SYL R3  ---  Yakutia Airlines
+LLM YC  ---  Yamal Airlines
+ANR YE  ---  Yanair
+AYG YH  ---  Yangon Airways
+IYE IY  ---  Yemenia
+NYT YT  ---  Yeti Airlines
+HYT YG  ---  YTO Cargo
+IZG ZO  ---  Zagros Airlines
+AZB ZN  ---  Zambia Airways
+TAN B4  ---  ZanAir
+KZH  ---  ZhezAir
+ZIB 8Z  ---  Zimbabwe Airways
+IMX XM  ---  Zimex Aviation
+TZP ZG  ---  ZIPAIR Tokyo
