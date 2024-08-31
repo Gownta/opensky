@@ -16,11 +16,11 @@ Hosted in partnership with OpenSky Network
 
 List of airports: https://ourairports.com/data/
 List of Airlines: https://planefinder.net/
-  > Data > Airlines
-  I downloaded the source for A-Z, then parsed the source to extract the airlines, in routes/
+- > Data > Airlines
+- I downloaded the source for A-Z, then parsed the source to extract the airlines, in routes/
 Flight API: https://www.flightaware.com/aeroapi/portal
-  > Products > AeroAPI
-  Sign up for a personal plan, $5 free queires per month
+- > Products > AeroAPI
+- Sign up for a personal plan, $5 free queires per month
 
 
 # Setup
